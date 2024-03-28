@@ -12,6 +12,9 @@ Designed Snake Game using Cpp . It is not an ordinary simple game. I have includ
 - Windows.h. to access sleep() function
 
 ## Data Structure used
-= An array
+- An array
+
+## Output
+![Output screenshot](./Screenshots/initial_stage.png)
 
 

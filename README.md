@@ -23,9 +23,9 @@ Designed Snake Game using Cpp. It is not an ordinary simple game. I have include
 ### While playing
 ![Output screenshot](./screenshots/while_playing.png)
 ### Game over due to hitting snake
-![Output screenshot](./screenshots/gameover_1.png)
+![Output screenshot](./screenshots/game_over_1.png)
 ### Game over due to danger border
-![Output screenshot](./screenshots/gameover_2.png)
+![Output screenshot](./screenshots/game_over_2.png)
 
 
 

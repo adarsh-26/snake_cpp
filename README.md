@@ -15,6 +15,17 @@ Designed Snake Game using Cpp . It is not an ordinary simple game. I have includ
 - An array
 
 ## Output
-![Output screenshot](./Screenshots/initial_stage.png)
+
+### Selecting Mode and Difficulty
+![Output screenshot](./screenshot/mode_difficulty.png)
+### Initial stage
+![Output screenshot](./screenshot/initial_stage.png)
+### While playing
+![Output screenshot](./screenshot/while_playing.png)
+### Game over due to hitting snake
+![Output screenshot](./screenshot/gameover_1.png)
+### Game over due to danger border
+![Output screenshot](./screenshot/gameover_2.png)
+
 
 

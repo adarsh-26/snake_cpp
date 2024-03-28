@@ -1,4 +1,4 @@
-# Snake_cpp
+# Snake_Game
 This is my project repository. It contains the code of customised Snake Game which I have developed  
 
 ## Description
@@ -17,15 +17,15 @@ Designed Snake Game using Cpp. It is not an ordinary simple game. I have include
 ## Output
 
 ### Selecting Mode and Difficulty
-![Output screenshot](./screenshot/mode_difficulty.png)
+![Output screenshot](./screenshots/mode_difficulty.png)
 ### Initial stage
-![Output screenshot](./screenshot/initial_stage.png)
+![Output screenshot](./screenshots/initial_stage.png)
 ### While playing
-![Output screenshot](./screenshot/while_playing.png)
+![Output screenshot](./screenshots/while_playing.png)
 ### Game over due to hitting snake
-![Output screenshot](./screenshot/gameover_1.png)
+![Output screenshot](./screenshots/gameover_1.png)
 ### Game over due to danger border
-![Output screenshot](./screenshot/gameover_2.png)
+![Output screenshot](./screenshots/gameover_2.png)
 
 
 
